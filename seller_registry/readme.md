@@ -1,3 +1,3 @@
 
-![이미지 설명](images/1-1.png){width=300px}
+<img src="./images/1-1.png" style="width:30%; height:auto;" /> <br>
 
